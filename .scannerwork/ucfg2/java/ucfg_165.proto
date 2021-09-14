@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;K
+AC:/Users/jagob/Desktop/git/Bets21/src/main/java/domain/Event.javaF F("1*«
+1K
+AC:/Users/jagob/Desktop/git/Bets21/src/main/java/domain/Event.javaG	 G(ç
+ä
+K
+AC:/Users/jagob/Desktop/git/Bets21/src/main/java/domain/Event.javaG	 G(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"e
+K
+AC:/Users/jagob/Desktop/git/Bets21/src/main/java/domain/Event.javaG G(
+
+%0java.util.DateB
+domain.Event
